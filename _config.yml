@@ -1,0 +1,47 @@
+# Welcome to Amplified for Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Cuttack.First.
+email: web@cuttack.top
+description: >
+  Everything about Cuttack.
+logo: "/assets/images/logo.jpg"
+baseurl: / # the subpath of your site, e.g. /blog
+url: https://amp.cuttack.top/ # the base hostname & protocol for your site
+enforce_ssl: amp.cuttack.top
+paginate:	5 # The number of posts to show per page on your homepage
+
+
+#Authors
+authors:
+  name: 'Admin'
+  bio: >
+  The admins of the website.
+  author_image: "/assets/images/author-thumb-admin-200x200.jpg"
+  twitter_username: cuttackfirst
+  instagram_username:  cuttackfirst
+
+# Google Analytics
+analytics_id: "UA-126196218-1"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+gems:
+  - jekyll-paginate
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
