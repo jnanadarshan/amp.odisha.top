@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Cuttack.First.
-email: web@cuttack.top
+title: Odisha.First.
+email: web@odisha.top
 description: >
-  Everything about Cuttack.
+  Everything about Odisha.
 logo: "/assets/images/logo.jpg"
 baseurl: / # the subpath of your site, e.g. /blog
-url: https://amp.cuttack.top/ # the base hostname & protocol for your site
-enforce_ssl: amp.cuttack.top
+url: https://amp.odisha.top/ # the base hostname & protocol for your site
+enforce_ssl: amp.odisha.top
 paginate:	5 # The number of posts to show per page on your homepage
 
 
@@ -21,7 +21,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 authors:
   name: 'Admin'
   bio: >
-  The admins of the website.
+    The admins of the website.
   author_image: "/assets/images/author-thumb-admin-200x200.jpg"
   twitter_username: cuttackfirst
   instagram_username:  cuttackfirst
