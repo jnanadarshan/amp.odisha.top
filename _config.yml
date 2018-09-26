@@ -21,7 +21,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 authors:
   name: 'Admin'
   bio: >
-  The admins of the website.
+    The admins of the website.
   author_image: "/assets/images/author-thumb-admin-200x200.jpg"
   twitter_username: cuttackfirst
   instagram_username:  cuttackfirst
