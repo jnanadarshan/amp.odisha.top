@@ -4,7 +4,7 @@ title:  "Let's set the agenda straight!"
 categories: [ odisha, opinion ]
 
 ---
-<amp-img width="800" height="400" layout="responsive" src="https://cuttack.top/assets/images/post2018/2018924-sunrise-600x300.jpg"></amp-img>
+<amp-img width="800" height="400" layout="responsive" src="https://odisha.top/assets/images/post2018/2018924-sunrise-600x300.jpg"></amp-img>
 #### Who we are?
 We are Odia people specifically from Cuttack who are living outside Odisha for quite some time. Some of us are Consultants, Software Engineers, Salespeople and other professionals from various fields. We have two movements, Odisha First that will focus on issues at Odisha level and Cuttack First which will focus on city specific issues.
 
