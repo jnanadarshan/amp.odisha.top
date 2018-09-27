@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "BDA Publishes tender CV template with Bengali as required Language! Odia missing!"
-author: Admin
 categories: [ news, bhubaneswar ]
 description: "Where is the outrage now?"
+author: Admin
 ---
 <amp-img width="800" height="400" layout="responsive" src="https://odisha.top/assets/images/post2018/20180927-bda-template.png"></amp-img>
 
