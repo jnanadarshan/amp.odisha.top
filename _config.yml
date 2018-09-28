@@ -12,7 +12,7 @@ description: >
   Everything about Odisha.
 logo: "/assets/images/logo.jpg"
 baseurl: / # the subpath of your site, e.g. /blog
-url: https://amp.odisha.top # the base hostname & protocol for your site
+url: "https://amp.odisha.top" # the base hostname & protocol for your site
 canonical: https://odisha.top
 enforce_ssl: amp.odisha.top
 paginate:	5 # The number of posts to show per page on your homepage
