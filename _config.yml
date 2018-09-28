@@ -17,7 +17,7 @@ canonical: https://odisha.top
 enforce_ssl: amp.odisha.top
 paginate:	5 # The number of posts to show per page on your homepage
 
-
+#Authors
 name: 'Admin'
   bio: >
     The admins of the website.
